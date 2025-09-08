@@ -11,6 +11,7 @@ CRUD (Create, Read, Update, Delete) işlemleri
 userId alanı üzerinden Users ↔ Posts ilişkisini gösterme
 
 📂 Kurulum
+
 git clone https://github.com/SerdarAkbulut/json-placeholder.git
 
 npm instal diyip bağımlılıkları yükleyin
