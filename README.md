@@ -17,3 +17,5 @@ git clone https://github.com/SerdarAkbulut/json-placeholder.git
 npm instal diyip bağımlılıkları yükleyin
 
 npm run dev ile projeyi çalıştırabilirsiniz
+
+https://json-placeholder-neon.vercel.app/ adresinden projenin canlı haline bakabilirsiniz
